@@ -1,0 +1,6 @@
+[submodule "WindowsTerminal"]
+	path = WindowsTerminal
+	url = https://github.com/ChameleonTheme/WindowsTerminal.git
+[submodule "Adobe"]
+	path = Adobe
+	url = https://github.com/ChameleonTheme/Adobe.git
